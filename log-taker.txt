@@ -3337,3 +3337,15 @@
 4/13/2025 | 4:21:44 PM | INFO | Trying to check user miner status... 
 4/13/2025 | 4:21:44 PM | INFO | Last mining time: 4/12/2025, 8:17:24 PM
 4/13/2025 | 4:21:44 PM | WARN | Mining already started, next mining time is: 4/13/2025, 8:17:24 PM
+4/13/2025 | 8:17:34 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/13/2025 | 8:17:34 PM | INFO | Start process for wallet 0x46F796cE4426e43769B974e816c0316ffA83D4D7 
+4/13/2025 | 8:17:35 PM | INFO | Trying To Login for wallet: 0x46F796cE4426e43769B974e816c0316ffA83D4D7 
+4/13/2025 | 8:17:36 PM | INFO | Login successful... 
+4/13/2025 | 8:17:36 PM | INFO | Trying to check user info... 
+4/13/2025 | 8:17:36 PM | INFO | User ID: 102700843 | Twitter: @ranitasilviana | Total Points: 1250680 
+4/13/2025 | 8:17:36 PM | INFO | Trying to check user miner status... 
+4/13/2025 | 8:17:37 PM | INFO | Last mining time: 4/12/2025, 8:17:24 PM
+4/13/2025 | 8:17:37 PM | INFO | Trying to start Mining for wallet: 0x46F796cE4426e43769B974e816c0316ffA83D4D7 
+4/13/2025 | 8:17:37 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/13/2025 | 8:17:37 PM | INFO | Trying to activate mining on-chain for wallet: 0x46F796cE4426e43769B974e816c0316ffA83D4D7 
+4/13/2025 | 8:17:47 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x20ebba469b5fff17a2e5670708f8a40f70977289b402faeb493e3f5ff3cd4301 
