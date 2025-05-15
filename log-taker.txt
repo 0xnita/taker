@@ -5155,3 +5155,12 @@
 5/15/2025 | 8:26:20 AM | INFO | Trying to activate mining on-chain for wallet: 0x46F796cE4426e43769B974e816c0316ffA83D4D7 
 5/15/2025 | 8:26:20 AM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
 5/15/2025 | 8:26:20 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/15/2025 | 12:37:30 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/15/2025 | 12:37:30 PM | INFO | Start process for wallet 0x46F796cE4426e43769B974e816c0316ffA83D4D7 
+5/15/2025 | 12:37:31 PM | INFO | Trying To Login for wallet: 0x46F796cE4426e43769B974e816c0316ffA83D4D7 
+5/15/2025 | 12:37:32 PM | INFO | Login successful... 
+5/15/2025 | 12:37:32 PM | INFO | Trying to check user info... 
+5/15/2025 | 12:37:32 PM | INFO | User ID: 102700843 | Twitter: @ranitasilviana | Total Points: 1922680 
+5/15/2025 | 12:37:32 PM | INFO | Trying to check user miner status... 
+5/15/2025 | 12:37:33 PM | INFO | Last mining time: 5/14/2025, 8:17:09 PM
+5/15/2025 | 12:37:33 PM | WARN | Mining already started, next mining time is: 5/15/2025, 8:17:09 PM
