@@ -5515,3 +5515,15 @@
 5/21/2025 | 4:23:51 PM | INFO | Trying to activate mining on-chain for wallet: 0x46F796cE4426e43769B974e816c0316ffA83D4D7 
 5/21/2025 | 4:23:53 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x46F796cE4426e43769B974e816c0316ffA83D4D7"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x2f","from":"0x46f796ce4426e43769b974e816c0316ffa83d4d7","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/21/2025 | 4:23:53 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/21/2025 | 8:19:58 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 8:19:58 PM | INFO | Start process for wallet 0x46F796cE4426e43769B974e816c0316ffA83D4D7 
+5/21/2025 | 8:19:59 PM | INFO | Trying To Login for wallet: 0x46F796cE4426e43769B974e816c0316ffA83D4D7 
+5/21/2025 | 8:19:59 PM | INFO | Login successful... 
+5/21/2025 | 8:19:59 PM | INFO | Trying to check user info... 
+5/21/2025 | 8:20:00 PM | INFO | User ID: 102700843 | Twitter: @ranitasilviana | Total Points: 2066680 
+5/21/2025 | 8:20:00 PM | INFO | Trying to check user miner status... 
+5/21/2025 | 8:20:01 PM | INFO | Last mining time: 5/20/2025, 4:23:45 PM
+5/21/2025 | 8:20:01 PM | INFO | Trying to start Mining for wallet: 0x46F796cE4426e43769B974e816c0316ffA83D4D7 
+5/21/2025 | 8:20:02 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/21/2025 | 8:20:02 PM | INFO | Trying to activate mining on-chain for wallet: 0x46F796cE4426e43769B974e816c0316ffA83D4D7 
+5/21/2025 | 8:20:13 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x2ad84fd9d755b598f25910d018cd47a2f4c56693074fe93e52b106005acf479a 
